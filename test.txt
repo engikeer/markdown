@@ -1,6 +1,1 @@
 test
-<<<<<<< HEAD
-一二
-=======
-一test
->>>>>>> testing
