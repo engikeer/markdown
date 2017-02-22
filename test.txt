@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 test1t1
+=======
+test
+一te
+1111
+>>>>>>> testing
